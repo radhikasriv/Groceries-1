@@ -1,4 +1,4 @@
 Grocery List
 apple
 pear
-lettuce
+tomato
