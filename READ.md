@@ -4,3 +4,5 @@ pear
 tomato
 glasses
 more tomatoes
+soda
+ice cream
